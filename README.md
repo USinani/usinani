@@ -17,16 +17,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://uljansinani.com)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Uljan Sinani's GitHub Stats" src="https://github-readme-stats.usinani.vercel.app/api?username=usinani&show_icons=true&hide_border=true" />
-
-</details>
-
-
+➡️ [ more blog posts...](https://uljansinani.com)
 
 
 <!--

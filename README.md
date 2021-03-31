@@ -24,11 +24,11 @@
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+<br></br>
 <span></span>
 
-<h3 align="left">📕 Project's Blog:</h3>
-  <a href="https://usinani.github.io/projectsgate/">
-  <img align="left" alt="Visit Blog" width="55px"
+<a href="https://usinani.github.io/projectsgate/">
+  <img align="left" alt="📕 Visi Project's Blog" width="55px"
  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 

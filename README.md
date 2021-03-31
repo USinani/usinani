@@ -24,15 +24,11 @@
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<a href="https://usinani.github.io/projectsgated">
-  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 
 ### 📕 Project's Blog
 
-<a href="https://usinani.github.io/projectsgate">
-  <img align="left" alt="Visit" width="22px"
+<a href="https://usinani.github.io/projectsgate/">
+  <img align="left" alt="Visit Blog" width="33px"
  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 

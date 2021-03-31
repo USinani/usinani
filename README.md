@@ -22,7 +22,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/hfmdhHWA">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Uljan's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <a href="https://open.spotify.com/show/1GRanG15w3RbVfUlqRrO8d">
@@ -31,16 +31,22 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-➡️ [ more blog posts...](https://uljansinani.com)
+➡️ [ projects' blog](https://usinani.github.io/projectsgate/)
+
 
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center">🛠️Languages and Tools:</h3>
+<h3 align="center">🛠️ Some of my digital Tools:</h3>
 <p align="center">
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+<p align="center">
+  
+![Engineers enjoy the numbers](https://profile-counter.glitch.me/{usinani}/count.svg)
+  
+  
 <!--
 <h3 align="center">⌨GitHub Status:</h3>
 <a href="https://github.com/usinani">

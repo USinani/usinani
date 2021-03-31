@@ -26,8 +26,9 @@
 
 ### 📕 Project's Blog
 <!-- BLOG-POST-LIST:START -->
-<a href="https://usinani.github.io/projectsgate/">
-  <img align="left" alt="Visit" width="22px" src="https://usinani.github.io/projectsgate/" />
+<a href="https://usinani.github.io/projectsgate">
+  <img align="left" alt="Visit" width="22px"
+ src="https://usinani.github.io/projectsgate/" />
 </a>
 
 <h3 align="center">🛠️ Some of my digital Tools:</h3>

@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## What do I do?
-### Enjoy Engineering, Researching and being a life amateur exploring things.
+### Enjoy Engineering, Researching and being a life amateur.
 
 - 🔭 I’m currently working on few meaningful things
 - 🌱 Currently learning the art of life-long learning
@@ -10,7 +10,7 @@
 - 💬 Ask me about how can I help, else internet has you covered ;)
 - ⚡ Fun fact: 2021> I ran my first marathon
 
-## 📫 How to reach me?
+## 📫 Feel free to reach out
 
 <a href="https://www.linkedin.com/in/uljansinani/">
   <img align="left" alt="Uljan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -24,6 +24,8 @@
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+<span></span>
+
 <h3 align="left">📕 Project's Blog:</h3>
   <a href="https://usinani.github.io/projectsgate/">
   <img align="left" alt="Visit Blog" width="55px"
@@ -31,7 +33,7 @@
 </a>
 
 <br></br>
-<span></span>
+
 
 <h3 align="center">🛠️ Some of my digital Tools:</h3>
 <p align="center">

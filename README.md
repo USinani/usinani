@@ -42,7 +42,10 @@
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <p align="center">
-  
+
+<br></br>
+<span></span>
+
 ![Engineers enjoy the numbers](https://profile-counter.glitch.me/{usinani}/count.svg)
 
  

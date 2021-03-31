@@ -24,11 +24,14 @@
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<h3 align="center">📕 Project's Blog:</h3>
+<h3 align="left">📕 Project's Blog:</h3>
   <a href="https://usinani.github.io/projectsgate/">
   <img align="left" alt="Visit Blog" width="55px"
  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
+
+<br></br>
+<span></span>
 
 <h3 align="center">🛠️ Some of my digital Tools:</h3>
 <p align="center">
@@ -39,10 +42,7 @@
 <p align="center">
   
 ![Engineers enjoy the numbers](https://profile-counter.glitch.me/{usinani}/count.svg)
- 
- 
- <!-- ### ->📕 Project's Blog
- 
+
  
 <!--
 <a href="https://discord.gg/hfmdhHWA">

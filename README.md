@@ -10,7 +10,7 @@
 - 💬 Ask me about how can I help, else internet has you covered ;)
 - ⚡ Fun fact: 2021> I ran my first marathon
 
-### 📫 How to reach me?
+## 📫 How to reach me?
 
 <a href="https://www.linkedin.com/in/uljansinani/">
   <img align="left" alt="Uljan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -25,7 +25,7 @@
 </a>
 
 
-### 📕 Project's Blog
+### ->📕 Project's Blog
 
 <a href="https://usinani.github.io/projectsgate/">
   <img align="left" alt="Visit Blog" width="33px"

@@ -28,7 +28,7 @@
 <span></span>
 
 <a href="https://usinani.github.io/projectsgate/">
-  <img align="left" alt="📕 Visi Project's Blog" width="55px"
+  <img align="left" alt="📕 Visi Project's Blog" width="66px"
  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 

@@ -48,12 +48,7 @@
 
 ![Engineers enjoy the numbers](https://profile-counter.glitch.me/{usinani}/count.svg)
 
- 
-<!--
-<a href="https://discord.gg/hfmdhHWA">
-  <img align="left" alt="Uljan's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-  
+
 <!--
 <h3 align="center">⌨GitHub Status:</h3>
 <a href="https://github.com/usinani">

@@ -25,9 +25,8 @@
 </a>
 
 <h3 align="center">📕 Project's Blog:</h3>
-<p align="center">
   <a href="https://usinani.github.io/projectsgate/">
-  <img align="left" alt="Visit Blog" width="33px"
+  <img align="left" alt="Visit Blog" width="55px"
  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 

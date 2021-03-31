@@ -1,4 +1,5 @@
 ### Hi there welcome to my Github 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Engineer, Researcher and a life amateur!
 
@@ -6,11 +7,9 @@
 - 🌱 Currently learning the art of life-long learning
 - 🤔 I’m looking for help on figuring out how to help
 - 💬 Ask me about how can I help, else internet has you covered ;)
-- 📫 How to reach me: Linkedin
 - ⚡ Fun fact: 2021> I ran my first marathon
 
-
-### 📕 Blogs
+### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/uljansinani/">
   <img align="left" alt="Uljan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -20,7 +19,6 @@
   <img align="left" alt="Uljan Sinani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/hfmdhHWA">
   <img align="left" alt="Uljan's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -29,9 +27,9 @@
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-
+### 📕 Project's Blog
 <!-- BLOG-POST-LIST:START -->
-➡️ [ projects' blog](https://usinani.github.io/projectsgate/)
+➡️ [ Visit](https://usinani.github.io/projectsgate/)
 
 
 <!-- BLOG-POST-LIST:END -->

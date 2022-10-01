@@ -5,8 +5,8 @@
 ### Enjoy Engineering, Researching and being a life amateur.
 
 - 🔭 Currently working and conducting research in the Biomedical Engineering field for Collaborative Robotics.
-- 🌱 What makes me thinking the most at the present ? enhancing Human Machine Interfaces, Assistive Robotics and Automation of Systems on a large scale . 
-- ⚡ A fun fact outside work: 2021> I ran my first marathon
+- 🌱 What makes me thinking at the present ? enhancing Human Machine Interfaces, Assistive Robotics and Automation of Systems on a large scale. 
+- ⚡ A fun fact outside work: 2021> I ran my first marathon.
 
 ## 📫 Feel free to reach out
 

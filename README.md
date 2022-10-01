@@ -4,11 +4,9 @@
 ## What do I do?
 ### Enjoy Engineering, Researching and being a life amateur.
 
-- 🔭 I’m currently working on few meaningful things
-- 🌱 Currently learning the art of life-long learning
-- 🤔 I’m looking for help on figuring out how to help
-- 💬 Ask me about how can I help, else internet has you covered ;)
-- ⚡ Fun fact: 2021> I ran my first marathon
+- 🔭 Currently working and conducting research in the Biomedical Engineering field for Collaborative Robotics.
+- 🌱 What makes me thinking the most at the present ? enhancing Human Machine Interfaces, Assistive Robotics and Automation of Systems on a large scale . 
+- ⚡ A fun fact outside work: 2021> I ran my first marathon
 
 ## 📫 Feel free to reach out
 

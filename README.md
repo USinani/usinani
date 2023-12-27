@@ -2,21 +2,12 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## What do I do?
-### Enjoy Engineering, Researching and being a life amateur.
+### Biomedical Engineering.
 
 - 🔭 Currently working and conducting research in the Biomedical Engineering field for Collaborative Robotics.
 - 🌱 What makes me thinking at the present ? enhancing Human Machine Interfaces, Assistive Robotics and Automation of Systems on a large scale. 
 - ⚡ A fun fact outside work: 2021> I ran my first marathon.
 
-## 📫 Feel free to reach out
-
-<a href="https://www.linkedin.com/in/uljansinani/">
-  <img align="left" alt="Uljan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/uljansinani">
-  <img align="left" alt="Uljan Sinani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
 <br></br>
 <span></span>
